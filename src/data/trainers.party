@@ -5982,11 +5982,25 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Poochyena
-Level: 5
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Patrat
+Level: 7
+Ability: Keen Eye
+Nature: Serious
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tackle
+- Bide
+- Bite
+
+Pidove
+Level: 7
+Ability: Big Pecks
+Nature: Serious
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Gust
+- Quick Attack
+- Growl
 
 === TRAINER_BILLY ===
 Name: BILLY

@@ -941,6 +941,8 @@ bool32 ItemHasVolatileFlag(enum Item itemId, enum Volatile _volatile)
 
 u32 GetItemSellPrice(enum Item itemId)
 {
+    if (itemId == ITEM_RARE_CANDY)
+        return 4800;
     return GetItemPrice(itemId) / ITEM_SELL_FACTOR;
 }
 
