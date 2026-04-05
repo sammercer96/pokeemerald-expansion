@@ -1473,6 +1473,8 @@ static s32 AI_CheckBadMove(enum BattlerId battlerAtk, enum BattlerId battlerDef,
     case EFFECT_STUFF_CHEEKS:
         if (GetItemPocket(gBattleMons[battlerAtk].item) != POCKET_BERRIES)
             return 0;   // cannot even select
+        if (gBattleMons[battlerAtk].item == ITEM_STARF_BERRY)
+            ADJUST_SCORE(15);
         //fallthrough
     case EFFECT_DEFENSE_UP:
     case EFFECT_DEFENSE_UP_2:

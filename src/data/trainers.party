@@ -6262,15 +6262,35 @@ Pic: Youngster
 Gender: Male
 Music: Male
 Double Battle: No
-AI: Check Bad Move
+AI: Basic Trainer
 
-Zigzagoon
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Rattata @ Oran Berry
+Level: 7
+Ability: Guts
+Nature: Jolly
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Quick Attack
+- Tackle
+- Bite
 
-Taillow
-Level: 3
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Taillow @ Oran Berry
+Level: 8
+Ability: Guts
+Nature: Serious
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Quick Attack
+- Gust
+- Growl
+
+Lechonk @ Starf Berry
+Level: 7
+Ability: Gluttony
+Nature: Rash
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Tackle
+- Mud Shot
+- Disarming Voice
+- Stuff Cheeks
 
 === TRAINER_TIMMY ===
 Name: TIMMY
@@ -11307,8 +11327,20 @@ Double Battle: No
 AI: Check Bad Move
 
 Wurmple
-Level: 4
-IVs: 0 HP / 0 Atk / 0 Def / 0 SpA / 0 SpD / 0 Spe
+Level: 7
+Ability: Shield Dust
+Nature: Serious
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Poison Sting
+- String Shot
+
+Venipede @ Oran Berry
+Level: 7
+Ability: Poison Point
+Nature: Serious
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Venoshock
+- Infestation
 
 Wurmple
 Level: 4
