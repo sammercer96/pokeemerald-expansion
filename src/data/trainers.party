@@ -4794,33 +4794,68 @@ Class: Leader
 Pic: Leader Roxanne
 Gender: Female
 Music: Female
-Items: Potion / Potion
 Double Battle: No
 AI: Basic Trainer
 
-Geodude
-Level: 12
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Tackle
-- Defense Curl
-- Rock Throw
-- Rock Tomb
-
-Geodude
-Level: 12
-IVs: 12 HP / 12 Atk / 12 Def / 12 SpA / 12 SpD / 12 Spe
-- Tackle
-- Defense Curl
-- Rock Throw
-- Rock Tomb
-
-Nosepass @ Oran Berry
+Numel @ Berry Juice
 Level: 15
-IVs: 24 HP / 24 Atk / 24 Def / 24 SpA / 24 SpD / 24 Spe
-- Block
-- Harden
-- Tackle
+Ability: Simple
+Nature: Calm
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Ember
+- Curse
+- Magnitude
+- Yawn
+
+Minior @ Lum Berry
+Level: 16
+Ability: Shields Down
+Nature: Naughty
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Acrobatics
+- Ancient Power
+- Bulldoze
+- Cosmic Power
+
+Maractus @ Occa Berry
+Level: 15
+Ability: Chlorophyll
+Nature: Careful
+IVs: 31 HP / 31 Atk / 31 Def / 30 SpA / 30 SpD / 31 Spe
+- Needle Arm
+- Leech Seed
+- Aerial Ace
+- Hidden Power
+
+Sandile @ Muscle Band
+Level: 16
+Ability: Moxie
+Nature: Jolly
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Bite
+- Fire Fang
 - Rock Tomb
+- Aqua Tail
+
+Glimmet @ Shuca Berry
+Level: 14
+Ability: Toxic Debris
+Nature: Serious
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Mud Shot
+- Acid Spray
+- Ancient Power
+- Toxic
+
+Geodude Alola @ Normal Gem
+Level: 15
+Ability: Rock Head
+Nature: Timid
+IVs: 31 HP / 31 Atk / 31 Def / 31 SpA / 31 SpD / 31 Spe
+- Double-Edge
+- Thunder Punch
+- Smack Down
+- Thunder Wave
 
 === TRAINER_BRAWLY_1 ===
 Name: BRAWLY
